@@ -1,4 +1,4 @@
-package search;
+package algorithms.search;
 
 public class BinarySearch {
     static <T extends Comparable<T>> int find(T[] array, T value) {
